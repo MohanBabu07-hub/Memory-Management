@@ -1,4 +1,4 @@
- Memory Management Algorithm Simulation
+## Memory Management Algorithm Simulation
 
 This repository contains a simulation of various memory management algorithms commonly used in computer systems. The simulation provides a visual representation of how these algorithms manage memory and allocate resources.
 
